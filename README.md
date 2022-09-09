@@ -1,7 +1,7 @@
 ### Olá, eu sou o André Rodrigues Correia 👋
 
 - 🔭 Estou trabalhando com desenvolvimento de soluções.
-- 🌱 Estou estudando Javascript e react js.
+- 🌱 Estou estudando Javascript e node js.
 - 📫 How to reach me: contato@andrecorreia.dev.br
 
 
