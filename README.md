@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando com desenvolvimento de soluções.
 - 🌱 Estou estudando Javascript e node js.
-- 📫 How to reach me: contato@andrecorreia.dev.br
+- 📫 How to reach me: andrecorreiati@gmail.com
 
 
 <div align="center">
